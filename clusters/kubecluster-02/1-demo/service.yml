@@ -15,4 +15,4 @@ spec:
     app: block-buster
     version: 7.1.0
     env: dev
-  type: NodePort
+  type: LoadBalancer
